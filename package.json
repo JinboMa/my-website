@@ -1,0 +1,8 @@
+{
+  "name": "my-website",
+  "version": "1.0.0",
+  "description": "my vue cli",
+  "main": "index.js",
+  "author": "jinboMa",
+  "license": "MIT"
+}
