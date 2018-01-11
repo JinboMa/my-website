@@ -1,2 +1,18 @@
 {
+  "eslint.autoFixOnSave": true,
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "html",
+    {
+      "language": "vue",
+      "autoFix": true
+    }
+  ],
+  "vetur.validation.script": false,
+  "vetur.format.defaultFormatter.js": "none",
+  "vetur.format.defaultFormatter.html": "js-beautify-html",
+  "path-intellisense.mappings": {
+    "@": "${workspaceRoot}/src"
+  }
 }
